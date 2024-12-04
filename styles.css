@@ -127,23 +127,6 @@ button#equal {
   background-color: #E4B1F0;
   color: #ffffff;
 }
-/* Para sa mga Ipad Kids */
-@media (max-width: 768px) {
-  .calculator {
-      width: 350px;
-      height: 480px;
-  }
-  button {
-      height: 55px;
-      width: 70px;
-      font-size: 18px;
-  }
-  #display {
-      font-size: 40px;
-      width: 330px;
-  }
-}
-
 /* Sa phone na malopet */
 @media (max-width: 480px) {
   .calculator {
